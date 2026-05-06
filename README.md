@@ -89,25 +89,6 @@ This project demonstrates the ability to:
 - Support strategic decision-making through analytics
 - Present business data through effective visual storytelling
 
----
-
-## Dashboard Preview
-
-### Finance View
-![Uploading Finance view.png…]()
-
-### Sales View
-(Add Screenshot Here)
-
-### Marketing View
-(Add Screenshot Here)
-
-### Supply Chain View
-(Add Screenshot Here)
-
-### Executive View
-(Add Screenshot Here)
-
 ## Live Dashboard
 
 Public Power BI Link:  
