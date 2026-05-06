@@ -94,7 +94,8 @@ This project demonstrates the ability to:
 ## Dashboard Preview
 
 ### Finance View
-(Add Screenshot Here)
+(Add S![Uploading image.png…]()
+creenshot Here)
 
 ### Sales View
 (Add Screenshot Here)
