@@ -72,8 +72,8 @@ This project showcases the ability to:
 ---
 
 ## 📷 Dashboard Preview
-*(Add screenshots of y![Uploading image.png…]()
-our dashboard here)*
+![Uploading image.png…]()
+
 
 ---
 
