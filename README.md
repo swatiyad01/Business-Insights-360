@@ -35,11 +35,6 @@ The dashboard provides actionable insights into finance, sales, marketing, suppl
 - Net error tracking
 - Supply chain performance monitoring
 
-### Executive View
-- High-level KPI dashboards
-- Revenue and profitability overview
-- Business performance summary for decision-making
-
 ---
 
 ## Data Sources
