@@ -8,6 +8,8 @@ The dashboard provides actionable insights into finance, sales, marketing, suppl
 
 ---
 
+## Live Dashboard
+
 ## Features
 
 ### Finance View
@@ -90,10 +92,6 @@ This project demonstrates the ability to:
 - Present business data through effective visual storytelling
 
 ## Live Dashboard
-
-Public Power BI Link:  
-(Paste your Power BI Service public link here)
-
 
 ## Conclusion
 
