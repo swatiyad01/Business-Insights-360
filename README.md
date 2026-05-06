@@ -1,87 +1,76 @@
-# AtliQ Hardwares – Finance & Sales Analytics Project
+# Business Insights 360
 
 ## Project Overview
 
-Analyzed the financial and sales performance of AtliQ Hardwares using Microsoft Excel, Power Query, Power Pivot, and DAX.
+Business Insights 360 is a comprehensive Power BI dashboard developed to analyze and visualize key business metrics across multiple departments at AtliQ Hardware.
 
-The project focused on transforming raw business data into actionable insights through KPI reporting, financial analysis, and sales performance tracking across products, customers, markets, and regions.
-
-## Business Objectives
-
-- Analyze sales growth trends
-- Evaluate profitability using P&L reports
-- Identify top and bottom performing products
-- Track customer and market performance
-- Support data-driven business decisions
+The dashboard provides actionable insights into finance, sales, marketing, supply chain, and executive operations, enabling stakeholders to monitor KPIs, identify trends, and make data-driven decisions.
 
 ---
 
-## Finance Analytics
+## Domain
 
-### Financial Insights
-
-- Net Sales increased from **$196.7M to $598.9M** (**204% growth**)
-- Gross Margin % declined from **41.4% to 36.4%**
-- Strong YoY growth observed across multiple months (**150%–400%+ growth**)
-- India generated the highest revenue contribution
-- Profitability varied across subzones with GM% ranging from **32%–42%+**
+Consumer Electronics / Hardware Analytics
 
 ---
 
-### Finance Analysis Performed
+## Features
 
-- Yearly and Monthly P&L Reports
-- Quarterly P&L Comparison
-- Gross Margin Analysis
-- Market and Subzone Performance Analysis
-- YoY Growth Analysis
+### Finance View
+- Profit & Loss (P&L) analysis
+- Product-level financial insights
+- Net sales and gross margin analysis
+- Time-based financial trend analysis
 
----
+### Sales View
+- Customer performance analysis
+- Product performance tracking
+- Market and regional sales analysis
+- Interactive filtering and drill-through insights
 
-## Sales Analytics
+### Marketing View
+- Regional performance analysis
+- Product-level marketing insights
+- Market share and profitability tracking
 
-### Sales Performance Insights
+### Supply Chain View
+- Forecast accuracy analysis
+- Net error tracking
+- Supply chain performance monitoring
 
-#### Sales Growth
-- Sales increased from **$196.7M (2020)** to **$598.9M (2021)**
-
-#### Top Performing Products
-- AQ Electron 4 3600 and AQ Smash 2 achieved **500%+ YoY growth**
-
-#### Product Analysis
-- Identified Top 5 and Bottom 5 products based on sales quantity and revenue
-
-#### Market Performance
-- India generated **$161.3M revenue in 2021**
-
-#### Customer Contribution
-- Customers like Amazon, AtliQ Exclusive, and Flipkart showed **200%–400%+ growth**
-
-#### New Product Impact
-- New product launches contributed approximately **$176.2M revenue in 2021**
+### Executive View
+- High-level KPI dashboards
+- Revenue and profitability overview
+- Business performance summary for decision-making
 
 ---
 
-## Tools & Technologies Used
+## Data Sources
 
-- :contentReference[oaicite:0]{index=0}
-- Power Query
-- Power Pivot
-- Pivot Tables
-- DAX Measures
+The dashboard integrates data from multiple sources:
+
+### Excel / CSV Files
+- Sales targets data
+- Market share data
+- Supporting business datasets
+
+### MySQL Database
+- Transactional data
+- Operational business data
 
 ---
 
 ## Skills Demonstrated
 
-- Financial Analysis
-- Sales Analytics
-- KPI Reporting
-- Data Cleaning & Transformation
-- Data Modeling
 - DAX Calculations
-- Business Data Interpretation
-- Dashboard Reporting
+- Data Modeling
+- ETL (Extract, Transform, Load)
+- Data Visualization
+- Business Data Analysis
+- Dashboard Design
+- KPI Reporting
+- Stakeholder-Focused Reporting
+- Data Integration using Excel, CSV, and MySQL
 
 ---
 
@@ -89,47 +78,48 @@ The project focused on transforming raw business data into actionable insights t
 
 - Net Sales
 - Gross Margin %
-- Gross Profit
-- YoY Growth %
-- Product Performance
+- Forecast Accuracy %
 - Customer Performance
+- Product Performance
+- Revenue Growth
 - Market Performance
-- Revenue Variance
 
 ---
 
-## Business Recommendations
+## Outcome
 
-- Scale high-performing products and markets
-- Optimize low-performing products
-- Focus on high-growth customers and regions
-- Improve profitability in lower-margin markets
-
----
-
-## Key Learnings
-
-- Built dynamic financial and sales reports
-- Performed time-based and regional analysis
-- Improved Excel-based analytics and data modeling skills
-- Strengthened understanding of business KPIs and profitability metrics
+This project demonstrates the ability to:
+- Build end-to-end BI solutions
+- Transform raw data into meaningful insights
+- Design interactive dashboards for business users
+- Support strategic decision-making through analytics
+- Present business data through effective visual storytelling
 
 ---
 
-## Dashboard / Report Preview
+## Dashboard Preview
 
-### Finance Analytics Report
-*(Add Screenshot Here)*
+### Finance View
+(Add Screenshot Here)
 
-### Sales Analytics Report
-*(Add Screenshot Here)*
+### Sales View
+(Add Screenshot Here)
 
-### P&L Analysis
-*(Add Screenshot Here)*
+### Marketing View
+(Add Screenshot Here)
 
-### Market Performance Analysis
-*(Add Screenshot Here)*
+### Supply Chain View
+(Add Screenshot Here)
+
+### Executive View
+(Add Screenshot Here)
+
+## Live Dashboard
+
+Public Power BI Link:  
+(Paste your Power BI Service public link here)
+
 
 ## Conclusion
 
-This project demonstrates how Finance and Sales Analytics can help organizations monitor growth, evaluate profitability, identify business opportunities, and support strategic decision-making using data-driven insights.
+This project highlights practical business intelligence and analytics skills by combining data modeling, DAX calculations, and interactive dashboard development to deliver actionable business insights.
