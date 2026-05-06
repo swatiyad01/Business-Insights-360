@@ -91,8 +91,6 @@ This project demonstrates the ability to:
 - Support strategic decision-making through analytics
 - Present business data through effective visual storytelling
 
-## Live Dashboard
-
 ## Conclusion
 
 This project highlights practical business intelligence and analytics skills by combining data modeling, DAX calculations, and interactive dashboard development to deliver actionable business insights.
