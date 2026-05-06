@@ -8,12 +8,6 @@ The dashboard provides actionable insights into finance, sales, marketing, suppl
 
 ---
 
-## Domain
-
-Consumer Electronics / Hardware Analytics
-
----
-
 ## Features
 
 ### Finance View
